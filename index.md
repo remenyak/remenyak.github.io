@@ -2,6 +2,7 @@
 
 А це є посилання на [певний сайт](https://google.com.ua).
 
+```Приклад коду?```
 
 ## Welcome to GitHub Pages
 
